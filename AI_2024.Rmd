@@ -236,7 +236,7 @@ John McCarthy did indeed coin the term "artificial intelligence" (AI) in 1956 du
 .pull-left[
 
 
-```{r   out.width = "90%", echo = FALSE}
+```{r   out.width = "70%", echo = FALSE}
 knitr::include_graphics("fig/John_Tukey.jpg")
 ```
 ].pull-right[
@@ -282,6 +282,240 @@ background-position: 80% 10%
 background-size: 100%
 
 # Are we nearing the pinnacle of AI?
+---
+class: center, middle 
+# The 7 Types of AI
+---
+
+class: top, left
+background-image:url('fig/AItypes1.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes2.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes3.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes4.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes5.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes6.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes7.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes8.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+class: top, left
+background-image:url('fig/AItypes9.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+
+class: top, left
+background-image:url('fig/NarrowAI.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+
+### Narrow AI
+
+#### Artificial intelligence systems that are designed and trained for **specific tasks** or **domains**.
+--
+
+```{r   out.width = "90%", echo = FALSE}
+knitr::include_graphics("fig/NarrowAIeg.png")
+```
+---
+
+class: top, left
+background-image:url('fig/chatgpt1.jpg')
+background-position: 50% 80%
+background-size: cover
+---
+class: bottom, center
+background-image:url('fig/chatgpt.jpg')
+background-position: 50% 80%
+background-size: cover
+
+
+**ChatGPT is considered Narrow AI because it is specialized in generating human-like text responses within a defined domain.**
+---
+
+class: top, left
+background-image:url('fig/AGI.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+## Strong AI 
+
+#### - Artificial General Intelligence (AGI), General AI
+--
+
+#### - AI systems that possess human-like cognitive abilities to understand, learn, and perform tasks across diverse domains autonomously.
+--
+
+#### - Hypothetical future state of artificial intelligence
+
+<!--
+As of now, true examples of Artificial General Intelligence (AGI) do not exist
+
+AGI represents a hypothetical future state of artificial intelligence where machines possess human-like cognitive abilities, such as reasoning, learning, and problem-solving, across a broad range of tasks and domains
+
+
+In "A.I. Artificial Intelligence" (2001), the concept of General AI is explored through the character of David, a highly advanced robotic boy programmed to experience emotions and love. While the film primarily focuses on David's journey and his desire to become human, his capabilities and experiences offer glimpses into the concept of General AI.
+
+David is designed to possess the ability to love and form emotional connections, which goes beyond the typical functions of AI seen in the film's world. He demonstrates the capacity to learn, adapt, and experience complex emotions such as longing, joy, and sorrow. Throughout the film, David's interactions with humans and other AI characters challenge the boundaries between artificial and human intelligence, raising questions about consciousness, identity, and the nature of humanity.-->
+---
+
+class: top, left
+background-image:url('fig/AGIeg.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+
+class: top, left
+background-image:url('fig/superAI.png')
+background-position: 50% 80%
+background-size: cover
+
+
+---
+
+## Super AI
+
+
+####  Artificial Superintelligence (ASI)
+
+--
+
+#### Hypothetical level of artificial intelligence that surpasses human intelligence in virtually every aspect.
+
+--
+
+#### It goes beyond AGI by vastly exceeding human capabilities in problem-solving, creativity, learning, and strategic planning.
+
+--
+
+#### It is a subject of intense study and debate within the field of AI research.
+---
+
+## Potential dangers of Artificial Superintelligence
+
+- **Risk to Humanity: ASI could endanger humanity if its goals don't match human values.**
+
+--
+
+- **Unpredictable Behavior: ASI may do things we can't predict because it's much smarter than humans.**
+
+--
+
+- **Loss of Control: Once ASI is smarter than us, we might not be able to control it.**
+
+--
+
+- **Job Loss: ASI could replace humans in jobs, causing economic problems.**
+
+--
+
+- **Weaponization: ASI could be used for harm by bad people or countries.**
+
+--
+
+- **Bias and Discrimination: ASI might make unfair decisions based on biased data.**
+
+---
+.pull-left[
+
+```{r   out.height= "10%", echo = FALSE}
+
+knitr::include_graphics("fig/elon.jpg")
+```
+].pull-right[
+
+- Founder, CEO, and chief engineer of SpaceX
+
+- CEO and product architect of Tesla, Inc.
+
+- Owner of X (formerly Twitter)
+
+- Founder of The Boring Company (infrastructure and tunnel construction company to alleviate traffic congestion in urban areas)
+
+- Co-founder of Neuralink, OpenAI, Zip2, and X.com (part of PayPal)
+
+
+]
+
+<!--
+Elon Musk has expressed concerns about the potential dangers of Artificial Superintelligence (ASI),
+
+One of the richest peopke in the world
+
+OpenAI is the organization behind the development of the GPT
+
+
+In each of Elon Musk's companies, AI plays a role in various aspects of operations, research, and development:-->
+---
+
+class: top, left
+background-image:url('fig/elonAGIbook.png')
+background-position: 50% 50%
+background-size: 100%
+
+
+---
+
+class: top, left, inverse
+background-image:url('fig/elonASI1.png')
+background-position: 50% 50%
+background-size: 100%
+
+
 ---
 
 ---
