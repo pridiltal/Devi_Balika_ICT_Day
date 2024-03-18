@@ -278,6 +278,8 @@ background-size: 100%
 ---
 class: center, middle 
 # The 7 Types of AI
+
+Source: IBM, 2023
 ---
 
 class: top, left
@@ -620,30 +622,78 @@ background-position: 50% 80%
 background-size: cover
 
 ---
+class: bottom, center
+background-image:url('fig/humanvalues.png')
+background-position: 50% 80%
+background-size: cover
+
+## <span style="color: black; background-color: white;">Risk to Humanity: ASI could endanger humanity if its goals don't match human values.</span>
+---
+class: bottom, center
+background-image:url('fig/AIjobs.png')
+background-position: 50% 80%
+background-size: cover
+
+## <span style="color: black; background-color: white;">Job Loss: ASI could replace humans in jobs, causing economic problems.</span>
+---
+class: bottom, center
+background-image:url('fig/control.png')
+background-position: 50% 10%
+background-size: 100%
+
+## <span style="color: black; background-color: white;">Loss of Control: Once ASI is smarter than us, we might not be able to control it.</span>
+
+---
+class: bottom, center
+background-image:url('fig/weapon.jpg')
+background-position: 50% 10%
+background-size: 100%
+
+## <span style="color: black; background-color: white;">Weaponization: ASI could be used for harm by bad people or countries.</span>
+
+
+---
+
+class: bottom, center
+background-image:url('fig/bias.jpg')
+background-position: 50% 10%
+background-size: 90%
+
+## <span style="color: black; background-color: white;">Bias and Discrimination: ASI might make unfair decisions based on biased data.</span>
+
+---
+
+class: bottom, center
+background-image:url('fig/race.jpg')
+background-position: 50% 10%
+background-size: 100%
+
+## <span style="color: black; background-color: white;">Unpredictable Behavior: ASI may do things we can't predict because it's much smarter than humans.</span>
+
+<!--
 ## Potential dangers of Artificial Superintelligence
 
 - **Risk to Humanity: ASI could endanger humanity if its goals don't match human values.**
 
---
 
 - **Unpredictable Behavior: ASI may do things we can't predict because it's much smarter than humans.**
 
---
+
 
 - **Loss of Control: Once ASI is smarter than us, we might not be able to control it.**
 
---
+
 
 - **Job Loss: ASI could replace humans in jobs, causing economic problems.**
 
---
+
 
 - **Weaponization: ASI could be used for harm by bad people or countries.**
 
---
+
 
 - **Bias and Discrimination: ASI might make unfair decisions based on biased data.**
-
+-->
 ---
 .pull-left[
 
