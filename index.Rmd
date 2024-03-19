@@ -445,7 +445,7 @@ background-position: 50% 50%
 background-size: 100%
 ---
 class: top, left
-background-image:url('fig/disney.png')
+background-image:url('fig/disney2.png')
 background-position: 50% 80%
 background-size: cover
 
@@ -578,7 +578,7 @@ background-size: 100%
 
 
 class: top, right
-background-image:url('fig/netflix.jpg')
+background-image:url('fig/netflix2.png')
 background-position: 50% 80%
 background-size: 100%
 
@@ -596,7 +596,7 @@ background-position: 50% 80%
 background-size: cover
 ---
 class: middle, center
-# Theory of Mind in General AI
+# Theory of Mind in Strong AI
 
 ## Aims to replicate human-like intelligence across various tasks by understanding <span style="color:blue">others' mental states</span> and intentions.
 
@@ -753,13 +753,13 @@ background-position: 50% 50%
 background-size: 100%
 
 
----
+<!--
 
 class: top, left, inverse
 background-image:url('fig/elonASI1.png')
 background-position: 50% 50%
 background-size: 100%
-
+-->
 
 ---
 class: inverse, middle, center
@@ -830,7 +830,7 @@ background-size: cover
 
 --
 
-- **Stay Updated: Keep abreast of the latest AI developments through books, blogs, and events.**
+- **Stay Updated: Keep updated with the latest AI developments through books, blogs, and events.**
 --
 
 - **Seek Mentorship: Find mentors or professionals in the AI field for guidance and support.**
@@ -848,6 +848,8 @@ class: center, middle
 
 
 ## `r icon::fa("globe")` prital.netlify.app
+
+## Email: priyangad@uom.lk
 
 
 
