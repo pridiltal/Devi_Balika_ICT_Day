@@ -1,5 +1,5 @@
 ---
-title: "The AI Revolution"
+title: "The AI Revolution:"
 subtitle:  "Historical Footprints  </br>  Current Applications  and  </br> Future Landscapes"
 author: <span style="color:#9aaedb"></br></br>Dr. Priyanga D. Talagala </span>
 #institute: "RStudio, PBC"
@@ -87,11 +87,13 @@ style_mono_accent(
   )
 ```
 
-#### <span style="color:black">PhD in Statistics, Monash University, Australia</span>
+
+#### <span style="color:black">Senior Lecturer, Department of Computational Mathematics,  </br> University of Moratuwa </span>
 
 --
 
-#### <span style="color:black">Senior Lecturer, Department of Computational Mathematics,  </br> University of Moratuwa </span>
+#### <span style="color:black">PhD in Statistics, Monash University, Australia</span>
+
 
 --
 
@@ -261,8 +263,24 @@ background-image:url('fig/history.png')
 background-position: 50% 80%
 background-size: 55%
 
-<!--
-AI winter refers to a period when interest and investment in artificial intelligence decline due to unmet expectations or failures in achieving significant progress.-->
+---
+
+class: center, middle
+
+# AI winter 
+
+
+
+## The times when interest and funding in AI decrease due to technology limitations or unmet expectations.
+
+---
+
+class: center, middle
+
+background-image:url('fig/history.png')
+background-position: 50% 80%
+background-size: 55%
+
 ---
 
 class:  center, middle
@@ -365,7 +383,7 @@ class:  middle, center
 ---
 
 class: top, left
-background-image:url('fig/siri.jpg')
+background-image:url('fig/siri1.png')
 background-position: 50% 80%
 background-size: 100%
 ---
