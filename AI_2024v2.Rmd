@@ -1,6 +1,6 @@
 ---
-title: "The AI Revolution: </br> Historical Footprints, Current Applications, and Future Landscapes"
-#subtitle:  <span style="color:#9aaedb">ICT Day 2024 </br> Devi Balika Vidyalaya</span>
+title: "The AI Revolution"
+subtitle:  "Historical Footprints  </br>  Current Applications  and  </br> Future Landscapes"
 author: <span style="color:#9aaedb"></br></br>Dr. Priyanga D. Talagala </span>
 #institute: "RStudio, PBC"
 #date: <span style="color:#9aaedb">20/03/2024</span> 
@@ -194,26 +194,29 @@ background-position: 50% 80%
 background-size: 100%
 
 ---
+
+## John McCarthy 
+
 .pull-left[
-
-
-```{r   out.width = "90%", echo = FALSE}
+```{r   out.width = "100%", echo = FALSE}
 knitr::include_graphics("fig/john-mccarthy.png")
 ```
 ].pull-right[
 
-```{r   out.height= "100%", echo = FALSE}
-knitr::include_graphics("fig/proposal.jpg")
-```
-
-"*Artificial intelligence is the science of making machines do things that would require intelligence if done by humans.*" 
-
-<!--Image source: https://home.dartmouth.edu/about/dartmouth-milestones-->
+## Coined the term "artificial intelligence" in 1956 during the Dartmouth Conference, USA
 ]
 
-**John McCarthy coined the term "artificial intelligence" in 1956 during the Dartmouth Conference, USA**
 
-**Two-month research effort to explore the possibility of creating intelligent machines**
+
+
+<!--Image source:
+
+"*Artificial intelligence is the science of making machines do things that would require intelligence if done by humans.*" https://home.dartmouth.edu/about/dartmouth-milestones-->
+
+
+
+<!--
+**Two-month research effort to explore the possibility of creating intelligent machines**-->
 
 <!--which is considered the birth of AI as a field, the man who organized the conference where AI was born
 
@@ -809,10 +812,6 @@ pridiltal
 icon::fa("globe")
 ```
 <span style="color: red">prital.netlify.app</span>
-
-
-
-This work was supported in part by RETINA research lab funded by the OWSD, a program unit of United Nations Educational, Scientific and Cultural Organization (UNESCO).
 
 
 
