@@ -816,22 +816,18 @@ background-size: cover
 - **Seek Mentorship: Find mentors or professionals in the AI field for guidance and support.**
 
 ---
-class: inverse, center, middle
-background-image:url('fig/uom1.jpg')
-background-position: 50% 80%
-background-size: cover
+class: center, middle
 
-# <span style="color: white; background-color: black;">Calling all Tech Enthusiasts!</span>
+# Calling all Tech Enthusiasts!
 
-# </br></br><span style="color: white; background-color: black;">University of Moratuwa</span>
+# University of Moratuwa
 
-# <span style="color: white; background-color: black;">Awaits You!</span>
+# Awaits You!
 
-</br></br><span style="color: white; background-color: black;">`r icon::fa("github")` 
-`r icon::fa("twitter")`pridiltal 
+## `r icon::fa("github")` `r icon::fa("twitter")`pridiltal 
 
-<span style="color: white; background-color: black;">
-`r icon::fa("globe")` prital.netlify.app</span>
+
+## `r icon::fa("globe")` prital.netlify.app
 
 
 
