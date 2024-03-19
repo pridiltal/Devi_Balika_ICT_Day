@@ -407,14 +407,7 @@ background-size: cover
 
 ### <span style="color:white">ChatGPT is considered Narrow AI because it is specialized in generating human-like text responses within a defined domain.</span>
 ---
-### ChatGPT
 
-```{r   out.width= "150%", echo = FALSE}
-
-knitr::include_graphics("fig/gpthappy.png")
-```
-
----
 
 class: top, left
 background-image:url('fig/AGI.png')
@@ -456,6 +449,15 @@ background-image:url('fig/disney.png')
 background-position: 50% 80%
 background-size: cover
 
+
+---
+
+### ChatGPT
+
+```{r   out.width= "150%", echo = FALSE}
+
+knitr::include_graphics("fig/gpthappy.png")
+```
 
 ---
 
