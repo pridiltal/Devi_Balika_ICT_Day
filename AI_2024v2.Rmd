@@ -18,8 +18,8 @@ output:
 ---
 class: top, left
 background-image:url('fig/1_stone.jpg')
-background-position: 74% 100%
-background-size: 170%
+background-position: 74% 50%
+background-size: 180%
 
 
 ```{r setup, include=FALSE}
@@ -88,30 +88,32 @@ style_mono_accent(
   )
 ```
 
-#### <span style="color:#040a47">PhD in Statistics, Monash University, Australia</span>
+#### <span style="color:black">PhD in Statistics, Monash University, Australia</span>
 
 --
 
-#### <span style="color:#040a47">Senior Lecturer, Department of Computational Mathematics,  </br> University of Moratuwa </span>
+#### <span style="color:black">Senior Lecturer, Department of Computational Mathematics,  </br> University of Moratuwa </span>
 
 --
 
-#### <span style="color:#040a47">Associate Investigator of the Australian Research Council </br>  Centre  of Excellence for Mathematical and Statistical  </br> Frontiers (ACEMS), Australia</span>
+#### <span style="color:black">Associate Investigator of the Australian Research Council </br>  Centre  of Excellence for Mathematical and Statistical  </br> Frontiers (ACEMS), Australia</span>
 
 --
 
-#### <span style="color:#040a47">Associate Editor, The R Journal (SJR ranking Q1)</span>
+#### <span style="color:black">Associate Editor, The R Journal (SJR ranking Q1)</span>
 
 --
 
 
-#### <span style="color:#040a47">BSc (Hons) Special Degree  in Statistics, USJ - Batch first </br> Gold Medalist, 2012</span>
+#### <span style="color:black">BSc (Hons) Special Degree  in Statistics, USJ - Batch first </br> Gold Medalist, 2012</span>
 
 --
 
-# <span style="color:#000000">Devi Balika Vidyalaya </br> Grade 6 -13</span>
+
+# <span style="color:#540317;background-color: #8ea9e8">Devi Balika Vidyalaya, Grade 6 -13</span>
 
 ---
+
 class: top, middle
 # Are you a human? 
 
@@ -121,21 +123,23 @@ knitr::include_graphics("fig/robot.png")
 
 ---
 
-class: top, left
+class: inverse, top, center
 background-image:url('fig/dog_muffin.png')
+background-color: black
 background-position: 50% 80%
 background-size: 80%
 
 
-### Chihuahua and muffin
+# Chihuahua and muffin
 
 ---
-class: top, left
+class:inverse, top, center
 background-image:url('fig/labradoodle.jpg')
+background-color: black
 background-position: 50% 80%
 background-size: 80%
 
-### Labradoodle and fried chicken
+# Labradoodle and fried chicken
 
 ---
 
@@ -145,8 +149,7 @@ class: middle, center
 
 --
 
-
-### <span style="color:black">multifaceted ability to learn, reason, adapt, and interact effectively, involving memory, language, logic, creativity, and emotion</span>
+## <span style="color:black">Multifaceted ability to learn, reason, adapt, and interact effectively, involving memory, language, logic, creativity, and emotion</span>
 
 <!--. Human intelligence is highly complex and multifaceted, -->
 ---
@@ -184,7 +187,7 @@ background-size: 75%
 class: center, middle
 # Turing Test (1950)
 
-### A method to determine whether a machine can demonstrate human intelligence.
+## A method to determine whether a machine can demonstrate human intelligence.
 
 ---
 class:  center, top
@@ -195,7 +198,7 @@ background-size: 100%
 
 ---
 
-## John McCarthy 
+# John McCarthy 
 
 .pull-left[
 ```{r   out.width = "100%", echo = FALSE}
@@ -203,7 +206,7 @@ knitr::include_graphics("fig/john-mccarthy.png")
 ```
 ].pull-right[
 
-## Coined the term "artificial intelligence" in 1956 during the Dartmouth Conference, USA
+## Coined the term <span style="color:red">Artificial Intelligence </span> in 1956 during the Dartmouth Conference, USA
 ]
 
 
@@ -232,16 +235,16 @@ John McCarthy did indeed coin the term "artificial intelligence" (AI) in 1956 du
 .pull-left[
 
 
-```{r   out.width = "70%", echo = FALSE}
+```{r   out.width = "80%", echo = FALSE}
 knitr::include_graphics("fig/John_Tukey.jpg")
 ```
 ].pull-right[
 
-## Coined the term **bit** (1947) 
+## Coined the term <span style="color:red">bit</span> (1947) 
 
   *The most basic unit of information in computing and digital communications* 
 
-## First published use of the word **software** (1958)
+## First published use of the word <span style="color:red">software </span> (1958)
 ]
 
 <!--  most basic unit of information in computing and digital communications. -->
@@ -274,15 +277,15 @@ class:  center, top
 
 
 background-image:url('fig/pinnacle.png')
-background-position: 80% 10%
+background-position: 80% 20%
 background-size: 100%
 
-# Are we nearing the pinnacle of AI?
+# <span style="color:white">Are we nearing the pinnacle of AI?</span>
 ---
-class: center, middle 
+class: inverse, center, middle 
 # The 7 Types of AI
 
-Source: IBM, 2023
+#### Source: IBM, 2023
 ---
 
 class: top, left
@@ -359,7 +362,7 @@ background-size: cover
 class:  middle, center
 # Narrow AI
 
-## Artificial intelligence systems that are designed and trained for<span style="color:blue"> tasks or domains</span>.
+## Artificial intelligence systems that are designed and trained for<span style="color:blue">  specific tasks or domains </span>.
 ---
 
 class: top, left
@@ -385,7 +388,15 @@ background-position: 50% 80%
 background-size: cover
 
 
-**ChatGPT is considered Narrow AI because it is specialized in generating human-like text responses within a defined domain.**
+### <span style="color:white">ChatGPT is considered Narrow AI because it is specialized in generating human-like text responses within a defined domain.</span>
+---
+### ChatGPT
+
+```{r   out.width= "150%", echo = FALSE}
+
+knitr::include_graphics("fig/gpthappy.png")
+```
+
 ---
 
 class: top, left
@@ -400,10 +411,11 @@ class:  middle, center
 
 ### Artificial General Intelligence (AGI), General AI
 
+## Has the ability to understand, learn, and apply knowledge across a <span style="color:blue"> wide range of tasks, similar to human intelligence </span>.
 
-
-#### AI systems that possess  <span style="color:blue">human-like cognitive abilities </span> to understand, learn, and perform tasks across diverse domains autonomously.
-
+<!--
+## AI systems that possess  <span style="color:blue">human-like cognitive abilities </span> to understand, learn, and perform tasks across diverse domains autonomously.
+-->
 
 <!--#### - Hypothetical future state of artificial intelligence
 
@@ -418,12 +430,12 @@ In "A.I. Artificial Intelligence" (2001), the concept of General AI is explored 
 David is designed to possess the ability to love and form emotional connections, which goes beyond the typical functions of AI seen in the film's world. He demonstrates the capacity to learn, adapt, and experience complex emotions such as longing, joy, and sorrow. Throughout the film, David's interactions with humans and other AI characters challenge the boundaries between artificial and human intelligence, raising questions about consciousness, identity, and the nature of humanity.-->
 ---
 class: top, left
-background-image:url('fig/spacecases.jpg')
+background-image:url('fig/strongai2.png')
 background-position: 50% 50%
-background-size: 90%
+background-size: 100%
 ---
 class: top, left
-background-image:url('fig/AGIeg.png')
+background-image:url('fig/disney.png')
 background-position: 50% 80%
 background-size: cover
 
@@ -440,10 +452,10 @@ background-size: cover
 class: middle, center
 # Super AI
 
-##  Artificial Superintelligence (ASI)
+###  Artificial Superintelligence (ASI)
 
 
-#### Hypothetical level of artificial intelligence that <span style="color:blue">surpasses human intelligence </span> in virtually every aspect.
+## Hypothetical level of artificial intelligence that <span style="color:blue">surpasses human intelligence </span> in virtually every aspect.
 
 <!--
 
@@ -454,8 +466,9 @@ class: middle, center
 #### It is a subject of intense study and debate within the field of AI research.-->
 ---
 class: top, left
-background-image:url('fig/Spellbinder.png')
-background-position: 50% 80%
+background-color: black
+<!--background-image:url('fig/matrix.png')-->
+background-position: 50% 50%
 background-size: 100%
 ---
 
@@ -482,7 +495,8 @@ class: middle, center
  **These systems are well-suited for tasks with clear, deterministic rules and objectives.**-->
  
 ---
-
+class: inverse
+background-color: black
 ### Deep Blue: IBM's chess-playing computer defeated world chess champion Garry Kasparov in a six-game match in 1997
 
 
@@ -530,7 +544,7 @@ class: top, right
 background-image:url('fig/vehicles.jpeg')
 background-position: 50% 80%
 background-size: 100%
-### Autonomous Vehicles (Self-driving cars)
+### <span style="color:white;background-color: black">Autonomous Vehicles (Self-driving cars)</span>
 
 
 
@@ -544,33 +558,16 @@ background-size: 100%
 
 
 
-class: top, left
+class: top, right
 background-image:url('fig/netflix.jpg')
 background-position: 50% 80%
 background-size: 100%
 
-### Recommendation Systems
+### <span style="color:white;background-color: black">Recommendation Systems</span>
 
 
 <!--Online platforms like Netflix and Amazon utilize limited memory AI to provide personalized recommendations to users. -->
 
----
-
-
-class: bottom, left
-background-image:url('fig/chatgpt.jpg')
-background-position: 50% 80%
-background-size: cover
-
-- It lacks the ability to retain information for long-term learning or adapt over extended periods.
-
----
-### ChatGPT
-
-```{r   out.width= "150%", echo = FALSE}
-
-knitr::include_graphics("fig/gpthappy.png")
-```
 
 ---
 
@@ -630,21 +627,22 @@ background-image:url('fig/humanvalues.png')
 background-position: 50% 80%
 background-size: cover
 
-## <span style="color: black; background-color: white;">Risk to Humanity: ASI could endanger humanity if its goals don't match human values.</span>
+## <span style="color: white; background-color: #370e96;">Risk to Humanity: ASI could endanger humanity if its goals don't match human values.</span>
 ---
 class: bottom, center
 background-image:url('fig/AIjobs.png')
-background-position: 50% 80%
+background-position: 50% 0%
 background-size: cover
 
-## <span style="color: black; background-color: white;">Job Loss: ASI could replace humans in jobs, causing economic problems.</span>
+## <span style="color: black; background-color: #bcbbbd;">Job Loss: ASI could replace humans in jobs, causing economic problems.</span>
 ---
-class: bottom, center
+class: inverse, bottom, center
 background-image:url('fig/control.png')
+background-color: black
 background-position: 50% 10%
 background-size: 100%
 
-## <span style="color: black; background-color: white;">Loss of Control: Once ASI is smarter than us, we might not be able to control it.</span>
+## <span style="color: white; background-color: black;">Loss of Control: Once ASI is smarter than us, we might not be able to control it.</span>
 
 ---
 class: bottom, center
@@ -652,7 +650,7 @@ background-image:url('fig/weapon.jpg')
 background-position: 50% 10%
 background-size: 100%
 
-## <span style="color: black; background-color: white;">Weaponization: ASI could be used for harm by bad people or countries.</span>
+## <span style="color: white; background-color: black;">Weaponization: ASI could be used for harm by bad people or countries.</span>
 
 
 ---
@@ -668,10 +666,10 @@ background-size: 90%
 
 class: bottom, center
 background-image:url('fig/race.jpg')
-background-position: 50% 10%
-background-size: 100%
+background-position: 60% 10%
+background-size: 110%
 
-## <span style="color: black; background-color: white;">Unpredictable Behavior: ASI may do things we can't predict because it's much smarter than humans.</span>
+## <span style="color: black; background-color: #a8a8a8;"> Unpredictable Behavior: ASI may do things we can't predict because it's much smarter than humans.</span>
 
 <!--
 ## Potential dangers of Artificial Superintelligence
@@ -700,9 +698,9 @@ background-size: 100%
 ---
 .pull-left[
 
-```{r   out.height= "10%", echo = FALSE}
+```{r out.width= "80%", echo = FALSE}
 
-knitr::include_graphics("fig/elon.jpg")
+knitr::include_graphics("fig/elon.png")
 ```
 ].pull-right[
 
@@ -788,12 +786,16 @@ background-size: cover
 - **Seek Mentorship: Find mentors or professionals in the AI field for guidance and support.**
 
 ---
-class: right, middle, bottom
-background-image:url('fig/UoM.jpg')
+class: inverse, center, middle
+background-image:url('fig/uom1.jpg')
 background-position: 50% 80%
 background-size: cover
 
+# <span style="color: white; background-color: black;">Calling all Tech Enthusiasts</span>
 
+# <span style="color: white; background-color: black;">University of Moratuwa</span>
+
+# <span style="color: white; background-color: black;">Awaits You!</span>
 ---
 class: inverse, middle, center
 
