@@ -3,7 +3,6 @@ title: "The AI Revolution"
 subtitle:  "Historical Footprints  </br>  Current Applications  and  </br> Future Landscapes"
 author: <span style="color:#9aaedb"></br></br>Dr. Priyanga D. Talagala </span>
 #institute: "RStudio, PBC"
-#date: <span style="color:#9aaedb">20/03/2024</span> 
 output:
   xaringan::moon_reader:
     #css: [default, kunoichi, chocolate-fonts]
@@ -743,6 +742,37 @@ background-size: 100%
 
 
 ---
+class: inverse, middle, center
+
+.pull-left[
+
+```{r   out.width = "65%", echo = FALSE}
+knitr::include_graphics("fig/crest.png")
+```
+].pull-right[
+
+# </br></br></br></br> Those who are disciplined in mind are wise
+
+]
+---
+
+class: inverse, middle, center
+
+# Disciplined development and wise use of super AI are vital for its positive societal impact, highlighting the need for responsible tech advancement.
+
+<!--
+The statement "Those who are disciplined in mind are wise" aligns with the idea that disciplined development and wise utilization of super AI are essential for ensuring its beneficial impact on society, emphasizing the importance of thoughtful and responsible decision-making in advancing technology for a better world.-->
+---
+class: bottom, left, inverse
+background-image:url('fig/responsibleai.jfif')
+background-position: 50% 50%
+background-size: 100%
+
+## Ethical, fair, and accountable use of artificial intelligence.
+
+<!--Responsible AI ensures ethical, fair, and accountable use of artificial intelligence."-->
+
+---
 
 class: right, middle, bottom
 background-image:url('fig/aifuture.jfif')
@@ -791,29 +821,17 @@ background-image:url('fig/uom1.jpg')
 background-position: 50% 80%
 background-size: cover
 
-# <span style="color: white; background-color: black;">Calling all Tech Enthusiasts</span>
+# <span style="color: white; background-color: black;">Calling all Tech Enthusiasts!</span>
 
-# <span style="color: white; background-color: black;">University of Moratuwa</span>
+# </br></br><span style="color: white; background-color: black;">University of Moratuwa</span>
 
 # <span style="color: white; background-color: black;">Awaits You!</span>
----
-class: inverse, middle, center
 
-## Thank you
+</br></br><span style="color: white; background-color: black;">`r icon::fa("github")` 
+`r icon::fa("twitter")`pridiltal 
 
-```{r}
-icon::fa("github")
-icon::fa("twitter")
-
-```
-pridiltal 
-
-`r anicon::faa("hand-point-right", animate="horizontal", colour= "orange", speed="fast")`
-```{r}
-
-icon::fa("globe")
-```
-<span style="color: red">prital.netlify.app</span>
+<span style="color: white; background-color: black;">
+`r icon::fa("globe")` prital.netlify.app</span>
 
 
 
