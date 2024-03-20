@@ -779,28 +779,17 @@ background-size: cover
 
 --
 
-- **Explore AI Concepts: Familiarize yourself with basic AI concepts through online resources.**
+- **Engage in AI Activities: Join AI clubs, attend workshops, and participate in data competitions.**
 
 --
 
-- **Engage in AI Activities: Join AI clubs, attend workshops, and participate in competitions.**
+
+- **Stay Updated: Keep updated with the latest AI developments through books, blogs, and events.**
 
 --
 
 - **Higher Education: Pursue studies in computer science or AI-related fields at a university.**
 
----
-
-## A Beginner's Guide to AI Adventure!
-
-- **Project Development: Work on AI projects independently or with peers to apply your skills.**
-
---
-
-- **Stay Updated: Keep updated with the latest AI developments through books, blogs, and events.**
---
-
-- **Seek Mentorship: Find mentors or professionals in the AI field for guidance and support.**
 
 ---
 class: center, middle
