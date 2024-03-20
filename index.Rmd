@@ -134,15 +134,7 @@ background-size: 80%
 # Chihuahua and muffin
 
 ---
-class:inverse, top, center
-background-image:url('fig/labradoodle.jpg')
-background-color: black
-background-position: 50% 80%
-background-size: 80%
 
-# Labradoodle and fried chicken
-
----
 
 class: middle, center
 
@@ -172,32 +164,7 @@ background-position: 50% 80%
 background-size: 100%
 
 ---
-class: inverse, center, middle
 
-background-image:url('fig/alan.jpg')
-background-position: 50% 80%
-background-size: 100%
----
-
-class: inverse, center, middle
-
-background-image:url('fig/alanmovie.jfif')
-background-position: 50% 80%
-background-size: 75%
----
-class: center, middle
-# Turing Test (1950)
-
-## A method to determine whether a machine can demonstrate human intelligence.
-
----
-class:  center, top
-
-background-image:url('fig/turingtestdiagram.jpg')
-background-position: 50% 80%
-background-size: 100%
-
----
 
 # John McCarthy 
 
@@ -859,3 +826,42 @@ class: center, middle
 <!--
 ### My research focuses on statistical machine learning, Time series analysis and forecasting and Computational statistics
 -->
+---
+---
+
+class:inverse, top, center
+background-image:url('fig/labradoodle.jpg')
+background-color: black
+background-position: 50% 80%
+background-size: 80%
+
+# Labradoodle and fried chicken
+
+---
+
+class: inverse, center, middle
+
+background-image:url('fig/alan.jpg')
+background-position: 50% 80%
+background-size: 100%
+---
+
+class: inverse, center, middle
+
+background-image:url('fig/alanmovie.jfif')
+background-position: 50% 80%
+background-size: 75%
+---
+class: center, middle
+# Turing Test (1950)
+
+## A method to determine whether a machine can demonstrate human intelligence.
+
+---
+class:  center, top
+
+background-image:url('fig/turingtestdiagram.jpg')
+background-position: 50% 80%
+background-size: 100%
+
+---
