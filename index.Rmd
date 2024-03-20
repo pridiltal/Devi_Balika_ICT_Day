@@ -779,13 +779,11 @@ background-size: cover
 
 --
 
-- **Engage in AI Activities: Join AI clubs, attend workshops, and participate in data competitions.**
+- **Stay Updated: Keep updated with the latest AI developments through books, blogs, and events; join AI clubs, attend workshops, and participate in data competitions.**
 
 --
 
-
-- **Stay Updated: Keep updated with the latest AI developments through books, blogs, and events.**
-
+- **Seek Mentorship: Find mentors or professionals in the AI field for guidance and support.**
 --
 
 - **Higher Education: Pursue studies in computer science or AI-related fields at a university.**
